@@ -43,6 +43,7 @@ const Cart = () => {
       }
     };
 
+    
     if (cart.length) {
       fetchImagesAndUpdateCart();
     }
